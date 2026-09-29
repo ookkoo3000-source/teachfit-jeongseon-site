@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>티치핏정선 블로그</title>
+  <link>https://jeongseon.slovrest.com/blog.html</link>
+  <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
+  <language>ko-kr</language>
+  <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>Tue, 29 Sep 2026 09:20:00 +0900</lastBuildDate>
+
+  <!-- RSS_ITEMS_START -->
+  <item>
+    <title>고한초등학교 국어과외, 읽고 요약하는 힘 기르기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-gohan-es-gugeo-yoyak.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-gohan-es-gugeo-yoyak.html</guid>
+    <description>글을 읽어도 무슨 내용인지 설명하기 어려워하는 고한초등학교 학생을 위해 어휘, 중심 문장 찾기, 요약, 글쓰기까지 국어 기초를 단계별로 정리했어요.</description>
+    <pubDate>Tue, 29 Sep 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>사북중학교 수학과외, 일차함수 개념부터 차근차근</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-ms-suhak-ilchahamsu.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-ms-suhak-ilchahamsu.html</guid>
+    <description>그래프만 보면 막막해지는 사북중학교 학생을 위해 좌표와 함수의 뜻, 기울기와 절편, 그래프 그리기, 활용 문제까지 일차함수를 단계별로 정리했어요.</description>
+    <pubDate>Tue, 29 Sep 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>정선고등학교 영어과외, 독해 기본기부터 차근차근</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hs-yeongeo-dokhae-gibon.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hs-yeongeo-dokhae-gibon.html</guid>
+    <description>단어는 아는데 문장이 안 읽히는 정선고등학교 학생을 위해 어휘, 구문, 문단 구조, 유형별 풀이까지 영어 독해 기본기를 순서대로 정리했어요.</description>
+    <pubDate>Tue, 29 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
+  <!-- RSS_ITEMS_END -->
+
+</channel>
+</rss>
