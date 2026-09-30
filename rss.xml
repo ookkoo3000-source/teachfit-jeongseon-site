@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 29 Sep 2026 09:20:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>남선초등학교 수학과외, 세 자리 수 곱셈 정확하게</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-namseon-es-suhak-gopsem.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-namseon-es-suhak-gopsem.html</guid>
+    <description>올림이 있는 곱셈에서 자주 틀리고 자리를 맞추지 못해 답이 달라지는 남선초등학교 학생을 위해 세 자리 수 곱셈을 원리부터 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>사북고등학교 국어과외, 문학 개념어 정리</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-hs-gugeo-gaenyeomeo.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-hs-gugeo-gaenyeomeo.html</guid>
+    <description>문학 선택지의 개념어 뜻을 정확히 몰라 표현상 특징 문제에서 자주 틀리는 사북고등학교 학생을 위해 핵심 문학 개념어를 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>고한중학교 영어과외, 문장 5형식 확실하게</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-gohan-ms-yeongeo-5hyeongsik.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-gohan-ms-yeongeo-5hyeongsik.html</guid>
+    <description>영어 문장의 구조가 보이지 않아 해석과 영작이 어려운 고한중학교 학생을 위해 문장 5형식을 동사 중심으로 쉽게 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>갈래초등학교 영어과외, 첫 영어 즐겁게 시작하기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-gallae-es-yeongeo-cheotgeoleum.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-gallae-es-yeongeo-cheotgeoleum.html</guid>
+    <description>학교에서 영어를 처음 배우기 시작하는 갈래초등학교 학생을 위해 영어에 흥미를 붙이고 기초를 다지는 첫걸음 방법을 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>고한고등학교 수학과외, 고1 방정식과 부등식 정리</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-gohan-hs-suhak-bangjeongsik.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-gohan-hs-suhak-bangjeongsik.html</guid>
+    <description>복소수와 판별식, 이차방정식과 이차함수의 관계가 헷갈리는 고한고등학교 1학년 학생을 위해 공통수학 방정식과 부등식 단원을 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>고한초등학교 국어과외, 읽고 요약하는 힘 기르기</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-gohan-es-gugeo-yoyak.html</link>
