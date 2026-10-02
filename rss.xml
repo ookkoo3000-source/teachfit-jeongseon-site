@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Thu, 01 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>봉양초등학교 수학과외, 선분·직선과 평면도형 기초</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-bongyang-es-suhak-pyeonmyeondohyeong.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-bongyang-es-suhak-pyeonmyeondohyeong.html</guid>
+    <description>선분과 직선, 반직선을 헷갈리고 직각삼각형과 직사각형의 특징을 구분하지 못하는 봉양초등학교 학생을 위해 평면도형 기초를 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>북평초등학교 영어과외, 교실 영어 표현 익히기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-bukpyeong-es-yeongeo-gyosil.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-bukpyeong-es-yeongeo-gyosil.html</guid>
+    <description>영어 수업 시간에 선생님의 영어 지시를 알아듣지 못하고 질문도 하지 못하는 북평초등학교 학생을 위해 교실 영어 표현을 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>함백고등학교 국어과외, 현대시 감상과 문제 풀이</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hambaek-hs-gugeo-hyeondaesi.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hambaek-hs-gugeo-hyeondaesi.html</guid>
+    <description>현대시를 읽어도 화자의 정서와 시어의 의미를 파악하지 못해 선택지에서 흔들리는 함백고등학교 학생을 위해 현대시 감상법을 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>문곡중학교 국어과외, 단어의 짜임과 형성 정리</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-mungok-ms-gugeo-daneo-hyeongseong.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-mungok-ms-gugeo-daneo-hyeongseong.html</guid>
+    <description>단일어와 복합어, 합성어와 파생어를 구분하지 못하고 어근과 접사를 헷갈리는 문곡중학교 학생을 위해 단어의 짜임을 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>정선정보공업고등학교 수학과외, 인수분해 기초 다지기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-info-tech-hs-suhak-insubunhae.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-info-tech-hs-suhak-insubunhae.html</guid>
+    <description>중학교 인수분해가 흔들려 고등학교 수학 계산에서 자주 막히는 정선정보공업고등학교 학생을 위해 인수분해를 기초부터 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>백전초등학교 국어과외, 낱말 뜻 짐작하며 어휘력 키우기</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-baekjeon-es-gugeo-eohwi.html</link>
