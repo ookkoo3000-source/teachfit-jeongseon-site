@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 02 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>사북초등학교 수학과외, 받아올림 있는 덧셈 정확하게</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-es-suhak-badaollim-deotsem.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-es-suhak-badaollim-deotsem.html</guid>
+    <description>받아올림이 있는 덧셈에서 올린 수를 빠뜨리거나 자리를 맞추지 못해 틀리는 사북초등학교 학생을 위해 받아올림 덧셈을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>정선초등학교 영어과외, 영어 그림책으로 읽기 습관 만들기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-es-yeongeo-geurimchaek.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-es-yeongeo-geurimchaek.html</guid>
+    <description>영어 단어는 조금 알지만 영어책을 읽어본 경험이 없어 긴 문장 앞에서 겁먹는 정선초등학교 학생을 위해 영어 그림책 읽기 방법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>함백중학교 국어과외, 논설문 주장과 근거 파악하기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hambaek-ms-gugeo-nonseolmun.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hambaek-ms-gugeo-nonseolmun.html</guid>
+    <description>논설문을 읽고 글쓴이의 주장과 근거를 구분하지 못하고 근거의 타당성을 묻는 문제에서 자주 틀리는 함백중학교 학생을 위해 논설문 독해법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>정선중학교 수학과외, 정수와 유리수 계산 완성</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-ms-suhak-jeongsu-yuriseu.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-ms-suhak-jeongsu-yuriseu.html</guid>
+    <description>음수가 섞인 덧셈과 뺄셈에서 부호를 헷갈리고 괄호와 거듭제곱이 섞인 혼합 계산에서 자주 틀리는 정선중학교 학생을 위해 정수와 유리수를 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>임계중학교 영어과외, 조동사 의미와 쓰임 정리</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-imgye-ms-yeongeo-jodongsa.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-imgye-ms-yeongeo-jodongsa.html</guid>
+    <description>can, must, should 같은 조동사의 뜻을 헷갈리고 조동사 뒤에 동사원형을 쓰지 않는 실수를 하는 임계중학교 학생을 위해 조동사를 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>봉양초등학교 수학과외, 선분·직선과 평면도형 기초</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-bongyang-es-suhak-pyeonmyeondohyeong.html</link>
