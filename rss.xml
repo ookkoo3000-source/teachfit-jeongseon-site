@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 03 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>정선고등학교 국어과외, 현대소설 인물과 갈등 분석</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hs-gugeo-soseol-inmul-galdeung.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hs-gugeo-soseol-inmul-galdeung.html</guid>
+    <description>현대소설을 읽어도 인물의 성격과 갈등 구조가 정리되지 않아 인물 심리와 갈등 문제에서 자주 흔들리는 정선고등학교 학생을 위해 분석법을 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>여량초등학교 수학과외, 길이 재기와 단위 바꾸기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-es-suhak-gili-jaegi.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-es-suhak-gili-jaegi.html</guid>
+    <description>자로 길이를 잴 때 눈금을 잘못 읽고 cm와 m, mm와 km 사이의 단위 바꾸기에서 자주 틀리는 여량초등학교 학생을 위해 길이 재기를 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>벽탄초등학교 국어과외, 의견과 근거 들어 말하기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-byeoktan-es-gugeo-uigyeon-geungeo.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-byeoktan-es-gugeo-uigyeon-geungeo.html</guid>
+    <description>자기 생각을 말할 때 그냥 좋아요, 싫어요로만 말하고 까닭을 들지 못하는 벽탄초등학교 학생을 위해 의견과 근거를 들어 말하고 쓰는 방법을 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>화동중학교 영어과외, 접속사 when, because, if 정리</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hwadong-ms-yeongeo-jeopsoksa.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hwadong-ms-yeongeo-jeopsoksa.html</guid>
+    <description>접속사 when, because, if, although의 뜻을 헷갈리고 접속사가 이끄는 절의 시제와 위치에서 자주 실수하는 화동중학교 학생을 위해 접속사를 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>여량중학교 수학과외, 경우의 수 빠짐없이 세기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-ms-suhak-gyeongu-su.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-ms-suhak-gyeongu-su.html</guid>
+    <description>경우의 수 문제에서 빠뜨리거나 중복해서 세고 합의 법칙과 곱의 법칙을 헷갈리는 여량중학교 학생을 위해 경우의 수를 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>사북초등학교 수학과외, 받아올림 있는 덧셈 정확하게</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-es-suhak-badaollim-deotsem.html</link>
