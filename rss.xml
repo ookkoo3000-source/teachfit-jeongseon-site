@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sun, 04 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>정선고등학교 수학과외, 등차수열과 등비수열 일반항</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hs-suhak-deungcha-deungbi.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hs-suhak-deungcha-deungbi.html</guid>
+    <description>등차수열과 등비수열의 일반항을 세울 때 첫째항과 항의 번호를 헷갈리고 등차중항과 등비중항을 활용하지 못하는 정선고등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>사북중학교 영어과외, 의문사 의문문 정확하게 만들기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-ms-yeongeo-uimunsa.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-ms-yeongeo-uimunsa.html</guid>
+    <description>의문사 의문문에서 조동사와 be동사의 위치를 헷갈리고 3인칭 주어일 때 does를 빠뜨리는 사북중학교 학생을 위해 의문사 의문문을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>증산초등학교 영어과외, 동물과 can으로 할 수 있는 일 말하기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-jeungsan-es-yeongeo-dongmul-can.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-jeungsan-es-yeongeo-dongmul-can.html</guid>
+    <description>동물 단어는 알지만 동물이 할 수 있는 일을 can으로 말하지 못하고 can 뒤에 동사를 바꾸어 쓰는 증산초등학교 학생을 위해 표현을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>임계초등학교 국어과외, 마음을 전하는 편지 쓰기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-imgye-es-gugeo-pyeonji-sseugi.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-imgye-es-gugeo-pyeonji-sseugi.html</guid>
+    <description>편지를 쓰라고 하면 안녕, 잘 지내? 다음에 무슨 말을 써야 할지 몰라 짧게 끝내는 임계초등학교 학생을 위해 편지의 형식과 마음을 전하는 표현을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>예미초등학교 수학과외, 평균의 뜻과 구하는 방법</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-yemi-es-suhak-pyeonggyun.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-yemi-es-suhak-pyeonggyun.html</guid>
+    <description>평균을 구할 때 자료의 개수로 나누는 것을 잊거나 평균을 이용해 모르는 값을 구하는 문제에서 막히는 예미초등학교 학생을 위해 평균을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>정선고등학교 국어과외, 현대소설 인물과 갈등 분석</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-hs-gugeo-soseol-inmul-galdeung.html</link>
