@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 06 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>남평초등학교 영어과외, 옷과 색깔로 사람 묘사하기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-nampyeong-es-yeongeo-ot-saekkal.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-nampyeong-es-yeongeo-ot-saekkal.html</guid>
+    <description>옷 이름과 색깔은 알지만 a red cap처럼 순서대로 말하지 못하거나 She is wearing으로 옷차림을 묘사하는 것을 어려워하는 남평초등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>여량중학교 국어과외, 소설의 시점과 서술자 구분하기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-ms-gugeo-soseol-sijeom.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-ms-gugeo-soseol-sijeom.html</guid>
+    <description>1인칭 주인공 시점과 관찰자 시점, 전지적 작가 시점을 헷갈리고 시점에 따른 효과를 설명하지 못하는 여량중학교 학생을 위해 소설의 시점을 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>고한초등학교 수학과외, 나눗셈의 뜻과 곱셈구구로 몫 구하기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-gohan-es-suhak-nanutsem-gicho.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-gohan-es-suhak-nanutsem-gicho.html</guid>
+    <description>똑같이 나누기와 묶어 세기의 차이를 모르고 나눗셈의 몫을 곱셈구구로 구하는 방법이 낯선 고한초등학교 학생을 위해 나눗셈 기초를 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>사북고등학교 영어과외, 내신 서술형 영작 감점 줄이기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-hs-yeongeo-seosulhyeong.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-hs-yeongeo-seosulhyeong.html</guid>
+    <description>서술형 영작에서 조건을 놓치거나 시제와 수일치, 어순 실수로 부분 점수를 잃는 사북고등학교 학생을 위해 내신 서술형 대비법을 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>정선중학교 수학과외, 소인수분해와 최대공약수 최소공배수</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-ms-suhak-soinsu-bunhae.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-ms-suhak-soinsu-bunhae.html</guid>
+    <description>소수와 합성수를 헷갈리고 소인수분해를 거듭제곱으로 정리하지 못하거나 최대공약수와 최소공배수를 거꾸로 구하는 정선중학교 학생을 위해 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>임계중학교 국어과외, 시의 운율 찾고 효과 설명하기</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-imgye-ms-gugeo-unyul.html</link>
