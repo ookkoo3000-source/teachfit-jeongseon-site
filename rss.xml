@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>여량초등학교 국어과외, 문장 부호 바르게 쓰기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-es-gugeo-munjang-buho.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-es-gugeo-munjang-buho.html</guid>
+    <description>마침표와 물음표, 느낌표를 알맞게 쓰지 못하거나 쉼표와 따옴표의 쓰임을 헷갈리는 여량초등학교 학생을 위해 문장 부호의 뜻과 바른 사용법을 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>함백중학교 영어과외, 현재진행형과 현재시제 구분</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hambaek-ms-yeongeo-hyeonjae-jinhaeng.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hambaek-ms-yeongeo-hyeonjae-jinhaeng.html</guid>
+    <description>be동사를 빠뜨리거나 -ing 철자를 틀리고 현재시제와 현재진행형을 언제 쓰는지 구분하지 못하는 함백중학교 학생을 위해 현재진행형을 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>정선정보공업고등학교 영어과외, 실용 영어 안내문 읽기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-info-tech-hs-yeongeo-annaemun.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-info-tech-hs-yeongeo-annaemun.html</guid>
+    <description>영어 안내문과 공지문, 매뉴얼을 읽고 날짜, 장소, 조건 같은 핵심 정보를 빠르게 찾지 못하는 정선정보공업고등학교 학생을 위해 실용 영어 읽기를 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>사북중학교 수학과외, 일차방정식 활용 문제 식 세우기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-ms-suhak-ilcha-bangjeongsik-hwalyong.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-ms-suhak-ilcha-bangjeongsik-hwalyong.html</guid>
+    <description>일차방정식은 풀 수 있는데 활용 문제에서 무엇을 x로 놓을지 모르고 식을 세우지 못하는 사북중학교 학생을 위해 유형별 식 세우는 방법을 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>정선초등학교 수학과외, 곱셈구구 원리와 빠르게 외우기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-es-suhak-gugudan.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-es-suhak-gugudan.html</guid>
+    <description>곱셈구구를 노래로만 외워 중간 단을 바로 떠올리지 못하거나 7단과 8단에서 자주 틀리는 정선초등학교 학생을 위해 곱셈구구의 원리와 익히는 방법을 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>남평초등학교 영어과외, 옷과 색깔로 사람 묘사하기</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-nampyeong-es-yeongeo-ot-saekkal.html</link>
