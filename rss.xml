@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Thu, 08 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>여량고등학교 국어과외, 음운 변동 교체 탈락 첨가 축약</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-hs-gugeo-eumun-byeondong.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-hs-gugeo-eumun-byeondong.html</guid>
+    <description>비음화와 유음화, 구개음화 같은 음운 변동의 종류를 헷갈리고 한 단어에 여러 변동이 일어날 때 분석하지 못하는 여량고등학교 학생을 위해 음운 변동을 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>화동중학교 수학과외, 정비례와 반비례 식과 그래프</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hwadong-ms-suhak-jeongbirye-banbirye.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hwadong-ms-suhak-jeongbirye-banbirye.html</guid>
+    <description>정비례와 반비례를 구분하지 못하고 관계식을 세우거나 그래프를 그릴 때 실수하는 화동중학교 학생을 위해 두 관계의 뜻과 식, 그래프, 활용 문제를 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>북평초등학교 수학과외, 그림그래프 읽고 나타내기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-bukpyeong-es-suhak-geurim-graph.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-bukpyeong-es-suhak-geurim-graph.html</guid>
+    <description>그림그래프에서 큰 그림과 작은 그림이 나타내는 수를 헷갈려 자료를 잘못 읽거나 직접 그래프로 나타내지 못하는 북평초등학교 학생을 위해 그림그래프를 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>문곡중학교 국어과외, 문장 성분 주성분과 부속 성분</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-mungok-ms-gugeo-munjang-seongbun.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-mungok-ms-gugeo-munjang-seongbun.html</guid>
+    <description>주어와 서술어는 찾지만 목적어와 보어, 관형어와 부사어를 구분하지 못하고 품사와 문장 성분을 헷갈리는 문곡중학교 학생을 위해 문장 성분을 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>봉양초등학교 영어과외, 위치 전치사 in on under</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-bongyang-es-yeongeo-wichi-jeonchisa.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-bongyang-es-yeongeo-wichi-jeonchisa.html</guid>
+    <description>Where is my cap? 질문에 in, on, under를 헷갈려 위치를 잘못 말하는 봉양초등학교 학생을 위해 물건의 위치를 묻고 답하는 영어 표현과 위치 전치사를 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>여량초등학교 국어과외, 문장 부호 바르게 쓰기</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-es-gugeo-munjang-buho.html</link>
