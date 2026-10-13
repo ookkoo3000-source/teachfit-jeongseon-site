@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 10 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>사북고등학교 국어과외, 고전 시가 갈래와 감상법</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-hs-gugeo-gojeon-siga.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-hs-gugeo-gojeon-siga.html</guid>
+    <description>고전 시가의 옛말 때문에 해석부터 막히고 향가, 고려가요, 시조, 가사의 특징을 구분하지 못하는 사북고등학교 학생을 위해 고전 시가의 갈래별 특징과 감상법을 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>임계중학교 수학과외, 도수분포표와 히스토그램</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-imgye-ms-suhak-dosu-bunpo.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-imgye-ms-suhak-dosu-bunpo.html</guid>
+    <description>줄기와 잎 그림, 도수분포표를 만들 때 계급의 경계를 헷갈리고 히스토그램과 도수분포다각형을 해석하지 못하는 임계중학교 학생을 위해 자료의 정리와 해석을 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>남평초등학교 수학과외, 길이 재기 cm m mm 단위</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-nampyeong-es-suhak-giri-jaegi.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-nampyeong-es-suhak-giri-jaegi.html</guid>
+    <description>자로 길이를 잴 때 0이 아닌 1부터 맞추거나 cm와 m, mm 단위를 바꿀 때 0의 개수를 헷갈리는 남평초등학교 학생을 위해 길이 재기와 단위 바꾸기를 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>정선중학교 영어과외, 비교급과 최상급 만들기와 쓰임</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-ms-yeongeo-bigyogeup-choesanggeup.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-ms-yeongeo-bigyogeup-choesanggeup.html</guid>
+    <description>비교급과 최상급을 만들 때 more와 er을 함께 쓰거나 good과 bad의 불규칙 변화를 틀리는 정선중학교 학생을 위해 비교급과 최상급의 형태와 쓰임, 시험 포인트를 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>고한초등학교 영어과외, 인사와 자기소개 첫 대화</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-gohan-es-yeongeo-insa-sogae.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-gohan-es-yeongeo-insa-sogae.html</guid>
+    <description>처음 만난 사람과 영어로 인사하고 이름과 나이를 소개하는 첫 대화가 어색한 고한초등학교 학생을 위해 상황별 인사 표현과 자기소개 방법을 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>여량고등학교 국어과외, 음운 변동 교체 탈락 첨가 축약</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-hs-gugeo-eumun-byeondong.html</link>

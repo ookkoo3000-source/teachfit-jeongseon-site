@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>임계중학교 수학과외, 도수분포표와 히스토그램 | 티치핏정선</title>
+<meta name="description" content="줄기와 잎 그림, 도수분포표를 만들 때 계급의 경계를 헷갈리고 히스토그램과 도수분포다각형을 해석하지 못하는 임계중학교 학생을 위해 자료의 정리와 해석을 정리했어요.">
+<link rel="canonical" href="https://jeongseon.slovrest.com/blog/jeongseon-imgye-ms-suhak-dosu-bunpo.html">
+<link rel="alternate" type="application/rss+xml" title="티치핏정선 블로그" href="https://jeongseon.slovrest.com/rss.xml">
+<link rel="icon" href="https://jeongseon.slovrest.com/favicon.ico?v=b930cdd1" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="https://jeongseon.slovrest.com/assets/icon-192.png?v=b930cdd1">
+<link rel="apple-touch-icon" href="https://jeongseon.slovrest.com/apple-touch-icon.png?v=b930cdd1">
+<meta name="naver-site-verification" content="cfbc064b649b255a28597f61c1eaff46cd85cf52">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap">
+<link rel="stylesheet" href="../assets/style.css?v=6a71858e0d">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="티치핏정선">
+<meta property="og:title" content="임계중학교 수학과외, 도수분포표와 히스토그램 | 티치핏정선">
+<meta property="og:description" content="줄기와 잎 그림, 도수분포표를 만들 때 계급의 경계를 헷갈리고 히스토그램과 도수분포다각형을 해석하지 못하는 임계중학교 학생을 위해 자료의 정리와 해석을 정리했어요.">
+<meta property="og:url" content="https://jeongseon.slovrest.com/blog/jeongseon-imgye-ms-suhak-dosu-bunpo.html">
+<meta property="og:image" content="https://jeongseon.slovrest.com/blog/img/jeongseon-imgye-ms-suhak-dosu-bunpo.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://jeongseon.slovrest.com/blog/img/jeongseon-imgye-ms-suhak-dosu-bunpo.jpg">
+</head>
+<body>
+<div class="band band-jeongseon" aria-hidden="true">
+<svg class="band-bg" viewBox="0 0 800 56" preserveAspectRatio="none">
+  <defs><linearGradient id="jsBandBg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" style="stop-color:var(--band-top)"/><stop offset="100%" style="stop-color:var(--band-bottom)"/></linearGradient></defs>
+  <rect x="0" y="0" width="800" height="56" fill="url(#jsBandBg)"/>
+  <path d="M0 56 V38 C 30 22 60 22 90 36 C 120 16 160 14 190 34 C 220 20 250 22 280 38 C 320 12 370 12 410 36 C 440 22 470 22 500 36 C 540 14 590 14 630 38 C 660 24 700 24 730 36 C 760 22 780 24 800 30 V56 Z" fill="var(--band-ink)"/>
+  <path d="M0 50 C 100 40 200 54 300 46 C 400 38 500 54 600 46 C 700 38 760 48 800 44" fill="none" stroke="var(--band-deep)" stroke-width="2.2"/>
+  <path d="M0 50 C 100 40 200 54 300 46 C 400 38 500 54 600 46 C 700 38 760 48 800 44" fill="none" stroke="var(--band-hi)" stroke-width="5" stroke-dasharray="1.5 9" opacity=".75"/>
+</svg>
+<svg class="band-motif" viewBox="0 0 150 56" preserveAspectRatio="xMaxYMax meet">
+  <circle cx="120" cy="18" r="10" fill="var(--band-sun)"/>
+  <g transform="translate(66 38)">
+    <rect x="-20" y="-10" width="40" height="12" rx="4" fill="#FFFFFF" stroke="var(--band-deep)" stroke-width="1.4"/>
+    <rect x="-14" y="-8" width="10" height="7" rx="1.5" fill="var(--band-hi)"/><rect x="2" y="-8" width="10" height="7" rx="1.5" fill="var(--band-hi)"/>
+    <circle cx="-12" cy="6" r="5" fill="#FFFFFF" stroke="var(--band-deep)" stroke-width="1.6"/><circle cx="12" cy="6" r="5" fill="#FFFFFF" stroke="var(--band-deep)" stroke-width="1.6"/>
+  </g>
+  <g stroke="var(--band-hi)" stroke-width="1.6" stroke-linecap="round" fill="none">
+    <path d="M112 56 C 110 44 104 36 98 32"/><path d="M118 56 C 118 42 120 34 126 28"/><path d="M124 56 C 128 46 136 40 144 38"/><path d="M106 56 C 100 48 92 44 86 44"/>
+  </g>
+</svg>
+</div>
+<div class="topbar">
+  <div class="wrap">
+    <span>지금 신청하면 30분 무료체험수업부터 받아보실 수 있어요</span>
+    <a class="phone" href="tel:01031315305">📞 010-3131-5305 (09:00–21:00)</a>
+  </div>
+</div>
+<header class="site">
+  <div class="wrap">
+    <a class="logo" href="../index.html"><span class="mark">TF</span>티치핏정선</a>
+    <div class="navwrap">
+      <nav class="main">
+        <a href="../index.html">홈</a>
+        <a href="../teachers.html">선생님</a>
+        <a href="../regions.html">정선 학교별 과외</a>
+        <a href="../blog.html" aria-current="page">블로그</a>
+      </nav>
+      <a class="cta-btn" href="../apply.html">무료 상담 신청</a>
+      <button class="menu-btn" aria-label="메뉴">☰</button>
+    </div>
+  </div>
+  <div class="mobile-nav-wrap">
+    <nav class="mobile-nav">
+      <a href="../index.html">홈</a>
+      <a href="../teachers.html">선생님</a>
+      <a href="../regions.html">정선 학교별 과외</a>
+      <a href="../blog.html" aria-current="page">블로그</a>
+      <a href="../apply.html">무료 상담 신청</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+
+<nav class="breadcrumb"><a href="../blog.html">블로그</a> / 중등 수학</nav>
+<section class="page-hero post-hero">
+  <span class="eyebrow">2026-10-13 · 중등 수학</span>
+  <h1>임계중학교 수학과외, 도수분포표와 히스토그램</h1>
+  <img class="post-cover" src="img/jeongseon-imgye-ms-suhak-dosu-bunpo.webp" width="720" height="720" alt="임계중학교 수학과외 1:1 화상과외 안내" loading="eager">
+  <div class="hero-cta"><a class="cta-main" href="../apply.html">30분 무료체험 신청하기 →</a><span>상담·체험 모두 무료</span></div>
+</section>
+<section>
+  <article class="prose blog-prose">
+    <div class="intro-banner">
+  <span class="ib-tag">무료 상담 · 무료 체험</span>
+  <p>학생 학습 상태 진단과 학교 시험 분석을 함께 안내드려요.<br><mark class="free">30분 무료체험수업</mark>으로 먼저 확인해보세요.</p>
+  <div class="ib-btns">
+    <a class="ib-kakao" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">카카오톡 상담 <i>↗</i></a>
+    <a class="ib-apply" href="../apply.html">무료체험 신청 <i>✨</i></a>
+  </div>
+</div><div class="summary-box"><strong>이 글 한눈에 보기</strong><ul><li>임계중학교 학생이 자료의 정리를 어려워하는 이유</li><li>줄기와 잎 그림</li><li>도수분포표</li><li>히스토그램과 도수분포다각형</li><li>상대도수와 해석</li><li><b><mark class="free">30분 무료체험수업</mark></b>으로 먼저 확인해보실 수 있어요.</li></ul></div>
+<p>임계중학교 1학년 학생들이 2학기 수학에서 배우는 자료의 정리와 해석은 계산보다 자료를 정리하고 읽는 힘이 필요한 단원이에요. 줄기와 잎 그림을 그릴 때 잎을 작은 수부터 정리하지 않거나, 도수분포표를 만들 때 계급의 경계에 있는 값을 어느 계급에 넣어야 할지 헷갈리는 경우가 많아요.</p><p>계급의 크기와 계급값, 도수의 뜻을 혼동하고, 히스토그램과 도수분포다각형의 넓이를 묻는 문제, 상대도수를 구하고 해석하는 문제에서 막히기도 해요. 그래프를 보고 전체 학생 수나 특정 계급의 비율을 구하는 문제에서 실수하는 경우도 많아요.</p><p>자료의 정리와 해석은 중학교 1학년 내신의 중요한 단원이고, 2학년의 확률, 3학년의 대푯값과 산포도, 고등학교의 통계까지 이어지는 통계 영역의 기초예요. 각 표와 그래프를 만드는 방법과 읽는 방법을 정확히 익히면 처음 보는 자료도 자신 있게 해석할 수 있어요.</p><p>이 글에서는 임계중학교 학생이 자료의 정리를 어려워하는 이유, 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형, 상대도수와 해석, 그리고 1:1 화상 수학 수업 활용법까지 차례대로 정리해 드릴게요.</p>
+<div class="pbox"><h2>임계중학교 학생이 자료의 정리를 어려워하는 이유</h2>
+<p>자료의 정리를 어려워하는 첫 번째 이유는 용어를 헷갈리는 거예요. 변량, 계급, 계급의 크기, 도수, 상대도수처럼 새로운 용어가 많아서 문제에서 무엇을 묻는지 정확히 파악하지 못해요.</p>
+<p>두 번째 이유는 계급의 경계값을 잘못 넣는 거예요. 계급은 이상과 미만으로 나누어서 경계에 있는 값은 위 계급에 들어가는데, 아래 계급에 넣는 실수가 자주 나와요.</p>
+<p>세 번째 이유는 자료를 셀 때 빠뜨리거나 중복하는 거예요. 자료가 많으면 도수를 셀 때 실수가 생기기 쉬운데, 표시하며 세는 습관이 없으면 합계가 맞지 않아요.</p>
+<p>네 번째 이유는 줄기와 잎 그림의 규칙을 지키지 않는 거예요. 잎을 작은 수부터 정리하지 않거나, 같은 수를 한 번만 쓰는 실수가 나와요.</p>
+<p>다섯 번째 이유는 히스토그램의 넓이를 이해하지 못하는 거예요. 각 직사각형의 넓이가 계급의 크기와 도수의 곱이라는 것을 모르면 넓이를 묻는 문제에서 막혀요.</p>
+<p>여섯 번째 이유는 도수분포다각형을 그릴 때 양 끝을 빠뜨리는 거예요. 양 끝에 도수가 0인 계급을 하나씩 추가해 가로축과 만나게 해야 하는데, 이를 놓쳐요.</p>
+<p>일곱 번째 이유는 상대도수의 의미를 모르는 거예요. 상대도수는 전체에 대한 각 계급의 비율인데, 도수와 혼동하거나 합이 1이라는 성질을 활용하지 못해요.</p>
+<p>여덟 번째 이유는 그래프를 해석하는 문장을 쓰지 못하는 거예요. 표와 그래프를 만드는 것은 할 수 있어도, 자료의 특징을 설명하라는 서술형에서 막혀요.</p>
+<p>자료의 정리와 해석은 용어를 정확히 익히고 표와 그래프를 만드는 순서를 지키면 자신 있게 풀 수 있어요. 줄기와 잎 그림부터 차근차근 정리해 볼게요.</p>
+</div><div class="pbox"><h2>줄기와 잎 그림</h2>
+<p>변량은 자료를 수량으로 나타낸 것이에요. 학생들의 키, 몸무게, 점수처럼 조사한 각각의 값이 변량이에요.</p>
+<p>줄기와 잎 그림은 변량을 줄기와 잎으로 나누어 나타낸 그림이에요. 두 자리 수는 보통 십의 자리 숫자를 줄기, 일의 자리 숫자를 잎으로 해요.</p>
+<p>줄기와 잎 그림을 그릴 때는 순서를 지켜요. 첫째, 줄기를 세로로 작은 수부터 써요. 둘째, 각 변량의 잎을 해당 줄기 옆에 써요. 셋째, 잎을 작은 수부터 정리해요.</p>
+<p>같은 수가 여러 번 나오면 잎도 여러 번 써요. 72가 두 번 나오면 줄기 7 옆에 잎 2를 두 번 써요. 한 번만 쓰면 자료의 개수가 줄어들어요.</p>
+<p>줄기와 잎 그림 아래에는 읽는 방법을 적어요. 7 다음 2는 72점처럼 줄기와 잎이 무엇을 나타내는지 표시해요.</p>
+<p>줄기와 잎 그림의 장점은 원래 자료의 값을 그대로 알 수 있다는 거예요. 자료의 분포를 한눈에 보면서도 각각의 값을 확인할 수 있어요.</p>
+<p>줄기와 잎 그림에서 잎의 총 개수는 전체 자료의 개수와 같아요. 다 그린 뒤에 잎의 개수를 세어 자료의 개수와 맞는지 확인해요.</p>
+<p>줄기와 잎 그림으로 자료의 특징을 읽어요. 잎이 가장 많은 줄기, 가장 큰 값과 가장 작은 값, 특정 값 이상인 자료의 개수를 찾는 문제가 자주 나와요.</p>
+<p>줄기와 잎 그림을 익혔다면 이제 도수분포표를 정리해 볼 차례예요.</p>
+<div class="callout"><strong>핵심 정리</strong>줄기와 잎 그림으로 두 집단을 비교할 수도 있어요. 가운데에 줄기를 쓰고 왼쪽과 오른쪽에 두 집단의 잎을 쓰면 두 반의 점수 분포를 한눈에 비교할 수 있어요. 왼쪽 잎은 줄기에 가까운 쪽부터 작은 수를 써요.</div>
+</div><div class="pbox"><h2>도수분포표</h2>
+<p>도수분포표는 자료를 몇 개의 계급으로 나누고 각 계급에 속하는 자료의 수를 나타낸 표예요.</p>
+<p>계급은 변량을 일정한 간격으로 나눈 구간이에요. 60점 이상 70점 미만처럼 나타내요. 계급의 크기는 구간의 너비로, 이 계급의 크기는 10이에요.</p>
+<p>도수는 각 계급에 속하는 자료의 수예요. 60점 이상 70점 미만인 학생이 5명이면 그 계급의 도수는 5예요.</p>
+<p>계급의 경계에 있는 값은 위 계급에 넣어요. 계급은 이상과 미만으로 나누므로 70점은 60점 이상 70점 미만이 아니라 70점 이상 80점 미만 계급에 들어가요.</p>
+<p>도수를 셀 때는 자료에 표시하며 세요. 하나씩 셀 때마다 빗금을 긋거나 바를 정 자를 쓰면 빠뜨리거나 중복하지 않아요.</p>
+<p>도수의 합은 전체 자료의 개수와 같아요. 표를 다 만든 뒤 도수의 합을 계산해 자료의 개수와 맞는지 확인해요.</p>
+<p>계급값은 각 계급의 가운데 값이에요. 60점 이상 70점 미만의 계급값은 65점이에요. 계급의 양 끝값을 더해 2로 나누어 구해요.</p>
+<p>도수분포표에서 모르는 도수를 구하는 문제도 자주 나와요. 전체 도수에서 나머지 계급의 도수를 빼면 구할 수 있어요.</p>
+<p>도수분포표의 장점은 자료의 분포를 한눈에 알 수 있다는 거예요. 하지만 각 자료의 정확한 값은 알 수 없다는 점도 기억해요.</p>
+<p>도수분포표를 익혔다면 이제 히스토그램과 도수분포다각형을 정리해 볼 차례예요.</p>
+<p>계급의 개수는 보통 5개에서 15개 정도로 정해요. 계급이 너무 적으면 자료의 특징이 드러나지 않고, 너무 많으면 표가 복잡해져요. 자료의 양에 맞게 적당한 계급의 크기를 정하는 것이 중요해요.</p>
+</div><div class="mid-cta"><strong>우리 아이에게 맞는지 궁금하시다면</strong><br><mark class="free">30분 무료체험수업</mark>으로 먼저 확인해보세요. <a class="cta-btn" href="../apply.html">무료체험 신청하기 →</a></div><div class="pbox"><h2>히스토그램과 도수분포다각형</h2>
+<p>히스토그램은 도수분포표를 직사각형 모양의 그래프로 나타낸 거예요. 가로축에 계급의 양 끝값을, 세로축에 도수를 표시하고 직사각형을 붙여 그려요.</p>
+<p>히스토그램의 직사각형은 서로 붙어 있어요. 막대그래프와 달리 계급이 연속되어 있기 때문이에요.</p>
+<p>히스토그램에서 각 직사각형의 넓이는 계급의 크기와 도수의 곱이에요. 계급의 크기가 모두 같으므로 직사각형의 넓이는 도수에 정비례해요.</p>
+<p>히스토그램의 전체 넓이는 계급의 크기와 도수의 총합의 곱이에요. 계급의 크기가 10이고 전체 도수가 30이면 전체 넓이는 300이에요.</p>
+<p>도수분포다각형은 히스토그램의 각 직사각형 윗변의 가운데 점을 차례로 이은 선 그래프예요. 양 끝에는 도수가 0인 계급을 하나씩 추가해서 가로축과 만나게 해요.</p>
+<p>양 끝에 도수가 0인 계급을 추가하는 것을 잊지 않아요. 추가하지 않으면 도수분포다각형이 가로축과 만나지 않아 넓이를 구할 수 없어요.</p>
+<p>도수분포다각형과 가로축으로 둘러싸인 넓이는 히스토그램의 직사각형 넓이의 합과 같아요. 잘려 나가는 삼각형과 더해지는 삼각형의 넓이가 같기 때문이에요.</p>
+<p>두 자료를 비교할 때는 도수분포다각형이 편리해요. 같은 그래프에 두 개의 도수분포다각형을 그리면 두 집단의 분포를 한눈에 비교할 수 있어요.</p>
+<p>히스토그램과 도수분포다각형을 익혔다면 마지막으로 상대도수와 해석을 정리해요.</p>
+<div class="callout"><strong>핵심 정리</strong>히스토그램에서 특정 계급의 비율을 구하는 문제도 자주 나와요. 해당 계급의 직사각형 넓이를 전체 넓이로 나누면 비율이 되고, 이 값은 그 계급의 상대도수와 같아요.</div>
+</div><div class="pbox"><h2>상대도수와 해석</h2>
+<p>상대도수는 각 계급의 도수를 도수의 총합으로 나눈 값이에요. 전체에 대한 각 계급의 비율을 나타내요.</p>
+<p>전체 30명 중 60점 이상 70점 미만인 학생이 6명이면 상대도수는 6을 30으로 나눈 0.2예요. 백분율로는 20퍼센트예요.</p>
+<p>상대도수의 합은 항상 1이에요. 모든 계급의 비율을 더하면 전체가 되기 때문이에요. 이 성질을 이용해 모르는 상대도수를 구할 수 있어요.</p>
+<p>상대도수는 0 이상 1 이하의 값이에요. 계산 결과가 1보다 크면 다시 확인해요.</p>
+<p>상대도수는 전체 크기가 다른 두 집단을 비교할 때 유용해요. 학생 수가 다른 두 반의 성적 분포를 비교할 때 도수로는 비교하기 어렵지만, 상대도수로는 정확하게 비교할 수 있어요.</p>
+<p>상대도수와 전체 도수를 알면 도수를 구할 수 있어요. 도수는 상대도수와 도수의 총합의 곱이에요. 상대도수가 0.3이고 전체가 40명이면 도수는 12명이에요.</p>
+<p>상대도수의 분포도 그래프로 나타낼 수 있어요. 세로축을 상대도수로 바꾸어 히스토그램이나 도수분포다각형 모양으로 그려요.</p>
+<p>자료를 해석하는 문장을 쓸 때는 사실을 정확하게 써요. 70점 이상 80점 미만인 학생이 가장 많다, 80점 이상인 학생은 전체의 25퍼센트이다처럼 계급과 수치를 함께 쓰면 좋은 답이 돼요.</p>
+<p>자료의 정리와 해석을 확실히 익혀 두면 2학년의 확률과 3학년의 대푯값, 고등학교의 통계까지 자신 있게 이어 갈 수 있어요.</p>
+<p>상대도수의 분포를 나타낸 그래프에서 두 집단을 비교할 때는 같은 계급의 상대도수를 비교해요. 상대도수가 더 큰 집단이 그 계급에 상대적으로 더 많이 분포한다는 뜻이에요.</p>
+</div><div class="pbox"><h2>1:1 화상 수학 수업으로 자료의 정리 완성하기</h2>
+<p>티치핏 1:1 화상 수학 수업에서는 임계중학교 학생의 교재와 내신 시험지를 먼저 확인하고, 용어 이해가 약한지 표와 그래프 만들기나 해석이 약한지 약점부터 정확히 진단해요.</p>
+<p>화면 공유 판서로 자료를 표와 그래프로 정리하는 과정을 단계별로 보여 주기 때문에, 학생이 각 표와 그래프의 관계를 연결해서 이해할 수 있어요.</p>
+<p>학생이 직접 도수분포표와 히스토그램을 만드는 과정을 화면으로 실시간 확인하면서 경계값을 잘못 넣거나 양 끝 계급을 빠뜨리는 실수를 바로 짚어 주어요.</p>
+<p>학교 기출 유형에 맞추어 넓이, 상대도수, 해석 서술형 문제를 집중 연습하고, 시험 전에는 예상 문제로 마무리 점검을 해요.</p>
+<p>수업 후에는 용어 정리표와 오답 노트, 과제를 정리해 드려서 혼자서도 복습을 이어 갈 수 있어요.</p>
+<p>정선처럼 학원까지 거리가 먼 지역의 학생도 집에서 바로 1:1 수업을 받을 수 있어서 통학 시간을 공부 시간으로 바꿀 수 있어요.</p>
+<p>궁금한 점은 수업 중 언제든 편하게 질문할 수 있어서, 헷갈리는 부분을 그냥 넘기지 않고 그 자리에서 해결할 수 있어요.</p>
+<p>중학교 수학 내신이 고민이시라면 <mark class="free">30분 무료체험수업</mark>으로 먼저 수업 방식을 확인해 보세요. 시험지나 교재를 준비해 오시면 약점 분석부터 함께 해 볼 수 있어요.</p>
+<p>상담과 체험은 모두 무료예요. 학부모님께는 수업마다 학생이 잘한 부분과 더 보완할 부분을 짧게 공유해 드려서 가정에서도 진도를 함께 확인하실 수 있어요.</p>
+<p>자료를 읽고 해석하는 힘은 수학을 넘어 모든 과목의 탐구 활동에 쓰여요.</p>
+<p>표와 그래프를 자유롭게 다루는 경험이 통계 단원의 자신감으로 이어져요.</p>
+<p><strong>Q. 계급의 경계에 있는 값을 어디에 넣어야 할지 헷갈려요.</strong><br>
+계급은 이상과 미만으로 나눈다는 규칙을 수직선으로 확인하고 경계값을 위 계급에 넣는 연습을 반복해서 정확하게 분류하도록 도와 드려요.</p>
+<p><strong>Q. 상대도수 문제가 어려워요.</strong><br>
+상대도수가 전체에 대한 비율이라는 의미와 합이 1이라는 성질을 정리하고, 도수와 상대도수를 서로 바꾸는 연습을 해서 자신 있게 풀도록 도와 드려요.</p>
+<p><strong>Q. 그래프 그리기도 화상 수업으로 배울 수 있나요?</strong><br>
+네, 화면 공유 판서로 그래프를 그리는 과정을 함께 보여 주고 학생이 그린 그래프를 화면으로 바로 확인하기 때문에 꼼꼼하게 배울 수 있어요.</p>
+</div>
+  </article>
+</section>
+<section>
+  <div class="cta-big">
+  <div class="cta-big-text">
+    <span class="cta-badge">무료</span>
+    <h2>30분 무료체험수업 먼저 받아보세요</h2>
+    <p>이름과 연락처만 남기시면 24시간 이내에 담당자가 연락드려요. 체험 후 마음에 들 때만 결정하세요.</p>
+  </div>
+  <div class="cta-big-btns">
+    <a class="cta-main" href="../apply.html">무료체험 신청하기 →</a>
+    <a class="cta-sub" href="tel:01031315305">전화 010-3131-5305</a>
+    <a class="cta-sub" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">카카오톡 상담</a>
+  </div>
+</div>
+</section>
+<p style="margin-top:14px;"><a href="../blog.html">← 블로그 목록으로</a></p>
+
+</main>
+<footer>
+  <div class="wrap">
+    <div>
+      <a class="logo" href="../index.html" style="margin-bottom:10px;"><span class="mark">TF</span>티치핏정선</a>
+      <div class="fnav">
+        <a href="../services.html">화상과외 소개</a><a href="../process.html">매칭 방식</a><a href="../teachers.html">선생님</a><a href="../regions.html">정선 학교별 과외</a><a href="../blog.html">블로그</a>
+      </div>
+      <p class="disclaimer">전화 010-3131-5305 · 운영시간 09:00–21:00 · 상담 및 매칭 신청은 무료이며, 실제 수업 진행 여부와 비용은 상담 후 안내해 드립니다. 사업자 정보는 확정 후 별도 고지 예정입니다.</p>
+    </div>
+  </div>
+</footer>
+<script src="../assets/site.js?v=6af2d58710"></script>
+<a class="kakao-fab" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">
+  <span class="kakao-fab-ico">💬</span><span class="kakao-fab-label">카톡 상담</span>
+</a>
+
+<div class="mobile-cta-bar">
+  <a class="msc-call" href="tel:01031315305">📞 전화상담</a>
+  <a class="msc-apply" href="../apply.html">무료 상담 신청</a>
+</div>
+<div class="q-modal" id="qModal" aria-hidden="true">
+  <form class="quick" action="https://formsubmit.co/ookkoo12@naver.com" method="POST">
+    <input type="hidden" name="_subject" value="[티치핏정선] 팝업 상담 신청">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="https://jeongseon.slovrest.com/thanks.html">
+    <input type="hidden" name="신청경로" value="팝업">
+    <input type="hidden" name="과목" class="q-in-sub">
+    <input type="hidden" name="학년" class="q-in-grade">
+    <button type="button" class="q-close" aria-label="닫기">✕</button>
+    <div class="q-step q-s1 on">
+      <span class="q-badge">30분 무료체험수업</span>
+      <div class="q-title">어떤 과목이 고민이세요?<small>과목만 고르시면 정선 학교 진도에 맞는 선생님을 찾아 연락드려요</small></div>
+      <div class="q-tiles"><button type="button" data-s="수학과외" data-h="빠진 단원부터 찾아 채워요"><b>📐</b>수학과외<i>빠진 단원부터 찾아 채워요</i></button><button type="button" data-s="영어과외" data-h="단어·문법·서술형까지"><b>🔤</b>영어과외<i>단어·문법·서술형까지</i></button><button type="button" data-s="국어과외" data-h="교과서 지문·문법·독해"><b>📖</b>국어과외<i>교과서 지문·문법·독해</i></button><button type="button" data-s="초등 전과목" data-h="기초 학습 습관부터"><b>✏️</b>초등 전과목<i>기초 학습 습관부터</i></button><button type="button" data-s="과학·사회" data-h="개념 정리와 서술형 대비"><b>🔬</b>과학·사회<i>개념 정리와 서술형 대비</i></button><button type="button" data-s="자기주도학습" data-h="공부 계획과 습관 만들기"><b>🧭</b>자기주도학습<i>공부 계획과 습관 만들기</i></button></div>
+      <div class="q-alt"><a href="tel:01031315305">📞 010-3131-5305</a><a href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">💬 카톡 상담</a></div>
+    </div>
+    <div class="q-step q-s2">
+      <button type="button" class="q-back">← 다시 고르기</button>
+      <div class="q-chosen"></div><div class="q-hint"></div>
+      <span class="q-lbl">학년</span>
+      <div class="q-chips"><button type="button">초1~3</button><button type="button">초4~6</button><button type="button">중1</button><button type="button">중2</button><button type="button">중3</button><button type="button">고1</button><button type="button">고2</button><button type="button">고3</button></div>
+      <span class="q-lbl">연락처</span>
+      <div class="q-row2"><input type="text" name="학생이름" placeholder="학생 이름 *" required><input type="tel" name="연락처" placeholder="연락처 *" required></div>
+      <input type="text" name="학교" placeholder="재학 중인 학교 (선택)">
+      <button type="submit" class="q-submit">무료체험 신청하기</button>
+      <p class="q-note">상담·체험 모두 무료 · 24시간 이내 연락드려요</p>
+    </div>
+  </form>
+</div>
+<button type="button" class="q-fab" id="qFab">⚡ 무료체험 신청</button>
+
+</body>
+</html>
