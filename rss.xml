@@ -6,9 +6,44 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 13 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>정선고등학교 영어과외, 동명사와 to부정사를 목적어로 쓰는 동사</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hs-yeongeo-dongmyeongsa-to.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hs-yeongeo-dongmyeongsa-to.html</guid>
+    <description>enjoy, finish 뒤에 to부정사를 쓰거나 remember, forget, stop 뒤의 동명사와 to부정사 의미 차이를 헷갈리는 정선고등학교 학생을 위해 목적어로 쓰는 동명사와 to부정사를 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>여량중학교 수학과외, 일차부등식 풀이와 활용</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-ms-suhak-ilcha-budeungsik.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-yeoryang-ms-suhak-ilcha-budeungsik.html</guid>
+    <description>음수를 곱하거나 나눌 때 부등호 방향을 바꾸지 않거나 활용 문제에서 이상과 초과를 헷갈리는 여량중학교 학생을 위해 부등식의 성질과 일차부등식 풀이, 활용 방법을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>증산초등학교 수학과외, 규칙 찾기와 대응 관계</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-jeungsan-es-suhak-gyuchik.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-jeungsan-es-suhak-gyuchik.html</guid>
+    <description>수 배열과 도형 배열에서 규칙을 찾지 못하고 두 양 사이의 대응 관계를 식으로 나타내지 못하는 증산초등학교 학생을 위해 규칙 찾기와 대응 관계를 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>고한중학교 국어과외, 고전소설의 특징과 감상</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-gohan-ms-gugeo-gojeon-soseol.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-gohan-ms-gugeo-gojeon-soseol.html</guid>
+    <description>고전소설의 낯선 어휘와 문체 때문에 내용을 따라가지 못하고 전기성, 권선징악, 행복한 결말 같은 특징을 작품에서 찾지 못하는 고한중학교 학생을 위해 고전소설 읽는 법을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>화동초등학교 영어과외, What's this? 물건 이름 묻고 답하기</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-hwadong-es-yeongeo-whats-this.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-hwadong-es-yeongeo-whats-this.html</guid>
+    <description>What's this?와 What's that?을 헷갈리고 a와 an을 빠뜨리거나 여러 개의 물건을 물을 때 표현을 바꾸지 못하는 화동초등학교 학생을 위해 물건 이름을 묻고 답하는 영어 표현을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>사북고등학교 국어과외, 고전 시가 갈래와 감상법</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-sabuk-hs-gugeo-gojeon-siga.html</link>
