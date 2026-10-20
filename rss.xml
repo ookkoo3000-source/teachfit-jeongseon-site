@@ -6,9 +6,16 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 14 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>중학교 수학이 뒤처졌을 때, 어느 단원부터 다시 봐야 할까요</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-jungdeung-suhak-eodibuteo-dasi.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-jungdeung-suhak-eodibuteo-dasi.html</guid>
+    <description>중학교 수학이 뒤처졌다면 지금 배우는 단원이 어느 앞 단원에 기대고 있는지 거꾸로 따라가며 막힌 지점을 찾는 것이 먼저예요. 단원이 이어지는 흐름과 집에서 해 볼 수 있는 점검 방법을 정리했어요.</description>
+    <pubDate>Tue, 20 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>정선고등학교 영어과외, 동명사와 to부정사를 목적어로 쓰는 동사</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-hs-yeongeo-dongmyeongsa-to.html</link>
