@@ -6,9 +6,16 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 20 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>‘실수로 틀렸어요’라는 수학 문제, 진짜 원인을 찾는 법</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-suhak-silsu-wonin-chatgi.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-suhak-silsu-wonin-chatgi.html</guid>
+    <description>수학에서 '실수'라고 부르는 틀림에는 부호·옮겨 쓰기·문제 잘못 읽기·풀이 생략처럼 서로 다른 원인이 섞여 있어요. 실수를 종류별로 나누고, 종류마다 다른 확인 습관을 들이는 방법을 정리했어요.</description>
+    <pubDate>Wed, 21 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>중학교 수학이 뒤처졌을 때, 어느 단원부터 다시 봐야 할까요</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-jungdeung-suhak-eodibuteo-dasi.html</link>
