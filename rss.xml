@@ -6,9 +6,16 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 21 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>중학생 겨울방학 공부 계획, 복습과 예습을 어떻게 나눌까요</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-jungdeung-gyeoulbanghak-gyehoek.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-jungdeung-gyeoulbanghak-gyehoek.html</guid>
+    <description>중학생 겨울방학은 지난 학년에서 흔들린 단원을 채우는 복습을 먼저 정하고, 남은 시간에 다음 학년 예습을 얹는 순서로 계획하면 좋아요. 방학 전에 할 일과 주 단위 계획 세우는 법을 정리했어요.</description>
+    <pubDate>Sat, 24 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>‘실수로 틀렸어요’라는 수학 문제, 진짜 원인을 찾는 법</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-suhak-silsu-wonin-chatgi.html</link>
