@@ -6,9 +6,16 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 24 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>배운 내용을 말로 설명해 보게 하는 공부법, 집에서 하는 방법</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-mallo-seolmyeonghagi-gongbubeop.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-mallo-seolmyeonghagi-gongbubeop.html</guid>
+    <description>배운 내용을 다른 사람에게 설명해 보면 이해한 부분과 외우기만 한 부분이 바로 드러나요. 집에서 부모님이 들어 주는 방법, 과목별 설명 질문, 설명이 막혔을 때 할 일을 정리했어요.</description>
+    <pubDate>Sun, 01 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>중학생 겨울방학 공부 계획, 복습과 예습을 어떻게 나눌까요</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-jungdeung-gyeoulbanghak-gyehoek.html</link>
