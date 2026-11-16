@@ -6,9 +6,16 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 16 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>임계고등학교 학부모님이 묻는 발표 수행평가, 무엇부터 준비할까요</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-imgye-hs-balpyo-suhaengpyeongga.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-imgye-hs-balpyo-suhaengpyeongga.html</guid>
+    <description>발표 수행평가는 말 잘하는 연습보다 평가 기준을 먼저 확인하고, 말할 내용을 짧은 구조로 정리하는 것이 먼저예요. 임계고등학교 학생이 발표 수행평가를 준비할 때 순서와 자주 놓치는 부분을 정리했어요.</description>
+    <pubDate>Tue, 17 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>나전중학교 학부모님이 묻는 과학 실험 보고서, 무엇을 써야 할까요</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-najeon-ms-gwahak-silheom-bogoseo.html</link>
