@@ -6,9 +6,16 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 21 Nov 2026 09:10:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>예미초등학교 학부모님이 묻는 사회 시간 우리 지역 조사, 어떻게 도와줄까요</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-yemi-es-sahoe-uri-jiyeok-josa.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-yemi-es-sahoe-uri-jiyeok-josa.html</guid>
+    <description>초등 사회에서는 우리 지역의 장소나 생활 모습을 조사하는 활동을 하기도 해요. 예미초등학교 학생처럼 지역 조사 과제를 앞둔 아이가 무엇을 조사하고 어떻게 정리하면 좋을지 정리했어요.</description>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>벽탄초등학교 학부모님이 묻는, 수학 문제집 채점할 때 틀린 걸 숨기는 아이</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-byeoktan-es-teullin-munje-sumgigo.html</link>
