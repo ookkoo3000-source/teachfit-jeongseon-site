@@ -6,9 +6,23 @@
   <description>정선 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://jeongseon.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 27 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:20:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>문곡중학교 학부모님이 묻는 국어 지문 속 한자어가 낯설어 내용을 놓치는 아이</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-mungok-ms-gugeo-hanjaeo-makhim.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-mungok-ms-gugeo-hanjaeo-makhim.html</guid>
+    <description>국어 지문을 읽을 때 낯선 한자어 때문에 내용을 놓치는 중학생이 많아요. 문곡중학교 학생처럼 어휘에서 막히는 아이가 한자어의 글자 뜻으로 단어를 짐작하고 정리하는 방법을 정리했어요.</description>
+    <pubDate>Fri, 27 Nov 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>임계초등학교 학부모님이 묻는 영어 문장을 우리말 순서대로 쓰는 아이</title>
+    <link>https://jeongseon.slovrest.com/blog/jeongseon-imgye-es-yeongeo-urimal-sunseo.html</link>
+    <guid>https://jeongseon.slovrest.com/blog/jeongseon-imgye-es-yeongeo-urimal-sunseo.html</guid>
+    <description>I school go.처럼 영어 문장을 우리말 순서대로 쓰는 초등학생이 많아요. 임계초등학교 학생처럼 영어 단어는 아는데 문장 순서가 자꾸 틀리는 아이가 누가-한다-무엇을 순서를 익히는 방법을 정리했어요.</description>
+    <pubDate>Fri, 27 Nov 2026 09:10:00 +0900</pubDate>
+  </item>
   <item>
     <title>문곡중학교 학부모님이 묻는, 단어는 아는데 문법 문제에서 틀리는 아이</title>
     <link>https://jeongseon.slovrest.com/blog/jeongseon-mungok-ms-munbeop-munje-teullinda.html</link>
